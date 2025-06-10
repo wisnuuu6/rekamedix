@@ -1,0 +1,26 @@
+/vendor
+/node_modules
+.env
+.env.example
+/public/hot
+/public/storage
+/storage/*.key
+/vendor/
+.phpunit.result.cache
+build/
+.DS_Store
+npm-debug.log
+yarn-error.log
+.idea/
+.vscode/
+Homestead.json
+Homestead.yaml
+/.vagrant
+!/vendor/.gitkeep
+!/node_modules/.gitkeep
+
+# Logs
+*.log
+/storage/logs/*.log
+/storage/logs/
+/bootstrap/cache/
