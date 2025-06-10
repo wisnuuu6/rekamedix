@@ -1,4 +1,4 @@
-# 🚀 Hosting Platform / [Nama Aplikasi Anda]
+# 🚀 Hosting Platform Rekamedix
 
 [![Laravel Version](https://img.shields.io/badge/Laravel-v10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP Version](https://img.shields.io/badge/PHP-v8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
